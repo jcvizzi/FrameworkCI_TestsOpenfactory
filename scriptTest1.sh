@@ -1,2 +1,2 @@
 #!/bin/sh
-python fileFichier.py
+python fileFichier.py example1.py
